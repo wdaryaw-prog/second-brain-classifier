@@ -1,4 +1,4 @@
-// api/classify.js
+а// api/classify.js
 // Единая точка входа для "Шеринг в Second Brain".
 // Принимает либо сырое изображение (Content-Type: image/*),
 // либо JSON { text, url, tags } для ссылок/текста.
