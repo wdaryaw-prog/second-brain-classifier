@@ -1,0 +1,9 @@
+{
+  "name": "second-brain-classifier",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serverless-прокси к Claude API для шортката 'Шеринг в Second Brain'",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
